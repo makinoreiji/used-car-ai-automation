@@ -10,7 +10,7 @@ ResNet50を使って、外装・内装・広告などの車両画像分類がPoC
 
 ## 関連repo
 
-- [used-car-image-classification](../..)
+- [used-car-image-classification](https://github.com/makinoreiji/used-car-image-classification)
 
 ## やること
 
