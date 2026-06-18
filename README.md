@@ -13,6 +13,12 @@
 - PoCや調査タスクのissue管理
 - 関連repoへの導線管理
 
+## 現在地
+
+PJの最新状況は、まず以下を見る。
+
+- [docs/current-status.md](docs/current-status.md)
+
 ## 関連repo
 
 - `used-car-image-classification`: 中古車画像分類モデルの実験・学習・評価repo
@@ -21,6 +27,7 @@
 
 ```text
 docs/
+  current-status.md
   project-status.md
   repo-map.md
   decisions.md

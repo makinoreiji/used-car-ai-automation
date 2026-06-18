@@ -1,5 +1,7 @@
 # PJ課題・現状整理
 
+最新の全体状況は [current-status.md](./current-status.md) を見る。
+
 ## 課題
 
 ### PJ全体の課題
