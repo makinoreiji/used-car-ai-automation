@@ -1,0 +1,6 @@
+# OS
+.DS_Store
+
+# Local artifacts
+tmp/**
+!tmp/.gitkeep
