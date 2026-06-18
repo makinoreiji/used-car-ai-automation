@@ -62,7 +62,7 @@ Chatworkで渡辺さん・駒沢さんと連絡できる状態になった。
 
 関連issue:
 
-- `issues/resnet50-classification-poc/issue.md`
+- [used-car-image-classification#1 ResNet50分類PoC検証](https://github.com/makinoreiji/used-car-image-classification/issues/1)
 
 ## repoの役割
 
