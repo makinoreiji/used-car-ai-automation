@@ -57,17 +57,17 @@ used-car-ai-automation PJ を進めるための運用ルールを整理する。
 
 最初に読むファイル。
 
-[project-work-summary.md](./project-work-summary.md)
+[project-work-summary.md](./docs/project-work-summary.md)
 
 必要に応じて読むファイル。
 
 | 用途 | ファイル |
 | --- | --- |
-| 現在のPJ状況 | [project-status.md](./project-status.md) |
-| 現在の進捗 | [current-status.md](./current-status.md) |
-| 決定事項 | [decisions.md](./decisions.md) |
-| repo構成 | [repo-map.md](./repo-map.md) |
-| 移行済みファイル | [migrated-from-atom](./migrated-from-atom) |
+| 現在のPJ状況 | [project-status.md](./docs/project-status.md) |
+| 現在の進捗 | [current-status.md](./docs/current-status.md) |
+| 決定事項 | [decisions.md](./docs/decisions.md) |
+| repo構成 | [repo-map.md](./docs/repo-map.md) |
+| issue一覧 | [README.md](./docs/issues/README.md) |
 
 ## ファイル管理ルール
 
@@ -162,7 +162,7 @@ issue完了時に確認すること。
 
 現時点の進捗確認は、以下を見る。
 
-[project-work-summary.md](./project-work-summary.md)
+[project-work-summary.md](./docs/project-work-summary.md)
 
 ## 運用上の注意
 

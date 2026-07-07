@@ -23,10 +23,10 @@
 | 用途 | パス |
 | --- | --- |
 | atom repo | `/Users/makino.reiji/ghq/github.com/makinoreiji/atom` |
-| used-car-ai-automation 作業ディレクトリ | `/Users/makino.reiji/ghq/github.com/makinoreiji/atom/work/projects/used-car-ai-automation` |
-| packets | `/Users/makino.reiji/ghq/github.com/makinoreiji/atom/work/projects/used-car-ai-automation/packets` |
-| drafts | `/Users/makino.reiji/ghq/github.com/makinoreiji/atom/work/projects/used-car-ai-automation/drafts` |
-| 現在のissueディレクトリ | `/Users/makino.reiji/ghq/github.com/makinoreiji/atom/work/projects/used-car-ai-automation/drafts/issue-functional-category-realization-methods` |
+| used-car-ai-automation 作業ディレクトリ | `/Users/makino.reiji/ghq/github.com/makinoreiji/used-car-ai-automation` |
+| docs | `/Users/makino.reiji/ghq/github.com/makinoreiji/used-car-ai-automation/docs` |
+| 現在のissueディレクトリ | `/Users/makino.reiji/ghq/github.com/makinoreiji/used-car-ai-automation/docs/issues/functional-category-realization-methods` |
+| 提案資料 | `/Users/makino.reiji/ghq/github.com/makinoreiji/used-car-ai-automation/docs/proposals` |
 
 ### 現在のissueで見るファイル
 
@@ -46,7 +46,7 @@
 
 | 状態 | 機能 | 詳細ファイル |
 | --- | --- | --- |
-| 済 | 車両画像加工機能 | [vehicle-image-processing-realization.md](./vehicle-image-processing-realization.md) |
+| 済 | 車両画像加工機能 | [realization-methods.md](./realization-methods.md) |
 
 ## 決定済み事項
 
