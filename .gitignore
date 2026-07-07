@@ -4,3 +4,11 @@
 # Local artifacts
 tmp/**
 !tmp/.gitkeep
+
+# Temporary / generated artifacts
+**/*.bkp
+**/.DS_Store
+
+# Secrets
+.env
+.env.*
