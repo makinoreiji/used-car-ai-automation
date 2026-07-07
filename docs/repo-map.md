@@ -13,6 +13,7 @@
 | `AGENTS.md` | このrepoで作業する時の運用ルール |
 | `docs/project-work-summary.md` | 今までやったこと、結論、決定事項、意思決定理由の総覧 |
 | `docs/issues/` | issue単位の作業経緯、結論、handoff |
+| `docs/guides/` | 作業時に参照するルールブック |
 | `docs/proposals/` | レビュー・提案に使うPDF資料 |
 | `docs/current-status.md` | 現在のPJ状況 |
 | `docs/decisions.md` | 主要な決定事項 |

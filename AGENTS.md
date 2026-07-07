@@ -68,6 +68,7 @@ used-car-ai-automation PJ を進めるための運用ルールを整理する。
 | 決定事項 | [decisions.md](./docs/decisions.md) |
 | repo構成 | [repo-map.md](./docs/repo-map.md) |
 | issue一覧 | [README.md](./docs/issues/README.md) |
+| API設計ルール | [api-design-rules.md](./docs/guides/api-design-rules.md) |
 
 ## ファイル管理ルール
 
